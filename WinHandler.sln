@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinHandler", "WinHandler\WinHandler.csproj", "{269987DC-0FAD-430C-A7E0-3C26D9CB300B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{269987DC-0FAD-430C-A7E0-3C26D9CB300B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{269987DC-0FAD-430C-A7E0-3C26D9CB300B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{269987DC-0FAD-430C-A7E0-3C26D9CB300B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{269987DC-0FAD-430C-A7E0-3C26D9CB300B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {315EA5B9-6CB7-4035-BB04-50013D5FCC37}
+	EndGlobalSection
+EndGlobal
